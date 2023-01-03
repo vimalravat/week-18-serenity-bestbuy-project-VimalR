@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bestbuy.bestbuyinfo.StoresCRUDTestWithSteps" skipped="0" tests="1" time="4.25" timestamp="2023-01-02T19:28:51.029Z[Europe/London]"><testcase classname="com.bestbuy.bestbuyinfo.StoresCRUDTestWithSteps" name="Verify if the product was added to the application"><error message="Index: 0, Size: 0" type="java.lang.IllegalArgumentException">Index: 0, Size: 0</error><system-err>Index: 0, Size: 0&#13;
+io.restassured.internal.path.json.JSONAssertion.getAsJsonObject(JSONAssertion.groovy:57)&#13;
+io.restassured.internal.path.json.JSONAssertion.getResult(JSONAssertion.groovy:28)&#13;
+io.restassured.path.json.JsonPath.get(JsonPath.java:202)&#13;
+io.restassured.internal.RestAssuredResponseOptionsGroovyImpl.path(RestAssuredResponseOptionsGroovyImpl.groovy:398)&#13;
+io.restassured.internal.RestAssuredResponseOptionsImpl.path(RestAssuredResponseOptionsImpl.java:200)&#13;
+com.bestbuy.productinfo.StoreSteps.getStoreInfoByName(StoreSteps.java:47)&#13;
+com.bestbuy.bestbuyinfo.StoresCRUDTestWithSteps.test002(StoresCRUDTestWithSteps.java:52)&#13;
+</system-err></testcase></testsuite>

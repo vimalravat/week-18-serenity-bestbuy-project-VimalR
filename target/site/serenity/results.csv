@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CRUD test with steps","This will create a new product","SUCCESS","2023-01-02T14:08:13.771Z[Europe/London]","0.0","0.22"
+"Stores CRUD test with steps","Verify if the product was added to the application","ERROR","2023-01-02T14:08:14.024Z[Europe/London]","0.0","0.13"
+"Stores CRUD test with steps","Update the product information and verify the updated information","ERROR","2023-01-02T14:08:14.295Z[Europe/London]","0.0","0.03"
+"Stores CRUD test with steps","Delete the student and verify if the student is deleted!","ERROR","2023-01-02T14:08:14.333Z[Europe/London]","0.0","0.02"
